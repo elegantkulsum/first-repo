@@ -43,7 +43,7 @@ header {
 /***** HERO SECTION START********/
 
 section.hero {
-    background-image: url(../image/hero.png);
+    background-image: url(hero.png);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -280,7 +280,7 @@ section.who-we-are h2 {
 
 /***** LANGUAGES SECTION START********/
 section.our-attorneys {
-    background-image: url(../image/our-attorneys-bg.png);
+    background-image: url(our-attorneys-bg.png);
     background-position: center;
     background-repeat: no-repeat;
     width: 100%;
